@@ -1,0 +1,19 @@
+Micro - ATMega168 or ATMega328 - DIP (the 328 provides extra code space) x2
+Ethernet - Microchip ENC 28J60 - DIP x2
+74HC08 - Surface Mount x2
+1N4004 Diode x2
+78L33 Regulator x2
+16 Mhz Crystal x2
+25 Mhz Crystal x2
+50R x 4 x2
+270R x 5 x2
+18pF x4 - Surface Mount x2
+100nF x 4 - Surface Mount x2
+10uF x 3 - Surface Mountx2
+4 pin dip switch x2
+RJ45 MAGJACK x2 - Has to be a MagJack, as that has the ethernet isolation transformer inside it http://www.sparkfun.com/commerce/product_info.php?products_id=8534
+10 pin header x2
+6 pin header x2
+5 pin header x2
+2 pin header x2
+Small Pushbutton switch x2 ??????
